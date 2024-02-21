@@ -15,13 +15,13 @@ Sebelum menjalankan skrip, pastikan Anda telah menginstal hal-hal berikut:
 1. Klona repositori ke komputer lokal Anda:
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/anony7911/yt-auto-play.git
     ```
 
 2. Buka direktori proyek:
 
     ```bash
-    cd your-repo
+    cd yt-auto-play
     ```
 
 3. Buat lingkungan virtual (opsional tetapi disarankan):
@@ -54,7 +54,7 @@ Sebelum menjalankan skrip, pastikan Anda telah menginstal hal-hal berikut:
 
 ## Penggunaan
 
-1. Buka file `your_script_name.py` di editor teks.
+1. Buka file `yt.py` di editor teks.
 
 2. Perbarui variabel `driver_path` dengan path yang benar ke eksekutor ChromeDriver.
 
@@ -65,10 +65,10 @@ Sebelum menjalankan skrip, pastikan Anda telah menginstal hal-hal berikut:
 3. Jalankan skrip:
 
     ```bash
-    python your_script_name.py
+    python yt.py
     ```
 
-Gantilah `your_script_name.py` dengan nama sebenarnya dari skrip Python Anda.
+Gantilah `yt.py` dengan nama sebenarnya dari skrip Python Anda.
 
 ## Catatan
 
